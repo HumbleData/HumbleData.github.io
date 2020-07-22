@@ -9,7 +9,7 @@ title: Past Events
   {% if postStartDate < curDate %}
     <a href="{{ site.github.url }}{{ post.url }}">
       <h1 style="margin-left: 10px;">{{ post.date | date: "%B %Y"}}</h1>
-      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }});"{% endif %}>
+      <div class="featured-posts" {% if post.image %}style="background-image:url({{ post.image }});"{% endif %}>
         <h2><span>{{ post.title }}</span></h2>
       </div>
     </a>
