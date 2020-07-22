@@ -1,0 +1,17 @@
+---
+layout: page
+title: Past Events
+---
+{% assign curDate = site.time | date: "%s" | plus: 0 %}
+
+{% for post in site.categories.event %}
+  {% assign postStartDate = post.date | date: "%s" | plus: 172800 %}
+  {% if postStartDate < curDate %}
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <h1 style="margin-left: 10px;">{{ post.date | date: "%B %Y"}}</h1>
+      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }}); height: 200px;"{% endif %}>
+        <h2><span>{{ post.title }}</span></h2>
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}

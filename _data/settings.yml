@@ -1,0 +1,38 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Upcoming Events', folder: 'pages', file: 'up-coming.html'}
+- {name: 'Past Events', folder: 'pages', file: 'past-event.html'}
+- {name: 'News', folder: 'pages', file: 'news.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link: 'https://twitter.com/HumbleData'}
+- {icon: 'facebook', link: 'https://www.facebook.com/HumbleDataWoqkshops'}
+- {icon: 'instagram', link: 'https://instagram.com/humbledataworkshops'}
+- {icon: 'envelope', link: 'mailto:contact@humbledata.org'}
+- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'
+
+cover_title: 'We are Humble Data'
+
+cover_description: 'Aim to increase inclusitivity and provide a safe community in Python and Data Science, we organise free workshops for people who are out side of the main stream in the data science/ tech industry. We encourage pass participants to be mentors and organise the same workshop themselves. We build a community where people will help each other and learn from each other. Remember to stay humble!'
