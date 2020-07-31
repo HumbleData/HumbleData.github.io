@@ -54,10 +54,10 @@ layout: default
           {% else %}
             <li>
               <h3>
-                <a href="{{ site.github.url }}{{ mypost.url }}">
+                <a href="{{ mypost.url }}">
                   <div class="related-thumbnail">
                     {% if mypost.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+                      <img src="{{ mypost.image }}">
                     {% endif %}
                   </div>
                   <div class="related-title">
