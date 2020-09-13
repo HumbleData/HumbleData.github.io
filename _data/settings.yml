@@ -12,6 +12,7 @@ menu:
 - {name: 'News', folder: 'pages', file: 'news.html'}
 - {name: 'Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'CoC', folder: 'pages', file: 'coc.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
