@@ -41,4 +41,31 @@ $link-color: #d63e36;
 $base-button-color: #fdb81a;
 $border-radius: 4px;
 
+// Global variables
+$base-transition: all .3s;
+$base-cubic-transition: all .3s cubic-bezier(0.175, 0.885, 0.320, 1.275);
+$long-transition: all .5s;
+$long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
+
+// Font weights
+$light: 200;
+$regular: 400;
+$bold: 500;
+$extra-bold: 600;
+
+@mixin trimText($font-size, $line-height, $lines) {
+  display: block;
+  display: -webkit-box;
+  overflow: hidden;
+  height: $font-size*$line-height*$lines+2px;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+}
+
 @import "_sass/-sections-dir";
+
+// Third-party
+@import "_sass/vendor/bootstrap-custom";
+@import "_sass/vendor/animate";
+@import "_sass/vendor/waves";
