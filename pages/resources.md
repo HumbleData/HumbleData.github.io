@@ -5,7 +5,7 @@ title: Resources
 ---
 ## Useful Resources for Participants
 
-We know all these new technologies can feel a bit overwhelming sometimes, that's why we have some tutorials to help you out in using the tools that we use to facilitate our remote workshops.
+We know all these new technologies can feel a bit overwhelming sometimes, that's why we have some tutorials to help you out in using the tools that we use to facilitate our online workshops.
 
 ### Screencast for using CoCalc - our teaching platform.
 
