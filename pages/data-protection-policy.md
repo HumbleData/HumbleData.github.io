@@ -1,7 +1,6 @@
 ---
 layout: misc
 title: Data Protection Policy
-published: false
 
 ---
 At Humble Data, we are committed to best practices around privacy and data protection and in particular complying with GDPR. To this end we ask for consent for data collection and are explicit about who we share your data with.
