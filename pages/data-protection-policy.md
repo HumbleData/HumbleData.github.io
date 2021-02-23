@@ -4,15 +4,13 @@ title: Data Protection Policy
 published: false
 
 ---
-## Data Protection
+At Humble Data, we are committed to best practices around privacy and data protection and in particular complying with GDPR. To this end we ask for consent for data collection and are explicit about who we share your data with.
 
-At Humble Data, we're committed to complying with GDPR. To this end we ask for consent for data collection and are explicit about who we share your data with.
-
-### Consent
+## Consent
 
 We show a consent dialog during signup that explains our data collection practices. Therefore, our lawful basis for collecting personal data is consent. This consent may be withdrawn at any time.
 
-### Sub-Processors
+## Sub-Processors
 
 * [Google Cloud](https://cloud.google.com/ "Google Cloud") (USA)
 * [Notion](https://www.notion.so/GDPR-c8eac6ea83a64fb1a3ea3bcd5c3d4951 "Notion") (USA)
