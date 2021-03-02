@@ -4,15 +4,7 @@ title: Upcoming Workshops
 ---
 {% assign curDate = site.time | date: "%s" | plus: 0 %}
 
-{% assign events = site.categories.event | where_exp: "post", "post.date | date: '%s' | plus: 172800 >= curDate" }}
-{% assign eventCount = events | size %}
-{% if eventCount == 0 %} 
-  <p>
-    No events scheduled...yet. Follow us <a href="http://twitter.com/humbledata/"><strong>@HumbleData</strong></a>
-    on Twitter to get the inside scoop on our next workshop!
-  </p>
-{% endif %}
-
+{% assign eventCount = 0 %}
 {% for post in site.categories.event %}
   {% assign postStartDate = post.date | date: "%s" | plus: 172800 %}
   {% if postStartDate >= curDate %}
@@ -22,5 +14,22 @@ title: Upcoming Workshops
         <h2><span>{{ post.title }}</span></h2>
       </div>
     </a>
+
+  {% assign eventCount = eventCount | plus:1 %}
   {% endif %}
 {% endfor %}
+
+{% if eventCount == 0 %}
+  <div style="text-align: center;">
+    <br/><br/>
+    <p>
+      <strong>No events currently scheduled...for now.</strong>
+      <br/><br/>
+
+      Follow us <a href="http://twitter.com/humbledata/"><strong>@HumbleData</strong></a>
+      on Twitter to get the inside scoop on our next workshop!
+    </p>
+
+    <a href="https://xkcd.com/353/"><img src="https://imgs.xkcd.com/comics/python.png" /></a>
+  </div>
+{% endif %}
