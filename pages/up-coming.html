@@ -4,7 +4,8 @@ title: Upcoming Workshops
 ---
 {% assign curDate = site.time | date: "%s" | plus: 0 %}
 
-{% assign eventCount = site.categories.event | size %}
+{% assign events = site.categories.event | where_exp: "post", "post.date | date: '%s' | plus: 172800 >= curDate" }}
+{% assign eventCount = events | size %}
 {% if eventCount == 0 %} 
   <p>
     No events scheduled...yet. Follow us <a href="http://twitter.com/humbledata/"><strong>@HumbleData</strong></a>
