@@ -3,6 +3,7 @@ layout: misc
 title: About
 ---
  
- {% include_relative about_old.md %}
+{% capture my_include %}{% include about_old.md %}{% endcapture %}
+{{ my_include | markdownify }}
  
- {% include team.html %}
+{% include team.html %}
