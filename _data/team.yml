@@ -2,7 +2,7 @@
   id: 0
   name: "Astrid"
   surname: "Verstraete"
-  title: "Oragnizer"
+  title: "Organiser"
   thumbnailUrl: AstridVerstraete.jpg
   team: true
   ribbon:
@@ -14,7 +14,7 @@
   id: 1
   name: "Cheuk"
   surname: "Ho"
-  title: "Oragnizer"
+  title: "Organiser"
   thumbnailUrl: CheukHo.JPG
   team: true
   ribbon:
@@ -26,7 +26,7 @@
   id: 2
   name: "Dani"
   surname: "Papamaximou"
-  title: "Oragnizer"
+  title: "Organiser"
   thumbnailUrl: DaniPapamaximou.png
   team: true
   ribbon:
@@ -38,7 +38,7 @@
   id: 3
   name: "Jesper"
   surname: "Dramsch"
-  title: "Oragnizer"
+  title: "Organiser"
   thumbnailUrl: default.png
   team: true
   ribbon:
@@ -50,7 +50,7 @@
   id: 4
   name: "John"
   surname: "Sandall"
-  title: "Oragnizer"
+  title: "Organiser"
   thumbnailUrl: JohnSandall.jpg
   team: true
   ribbon:
@@ -62,7 +62,7 @@
   id: 5
   name: "Sandrine"
   surname: "Pataut"
-  title: "Organizer"
+  title: "Organiser"
   thumbnailUrl: SandrinePataut.jpg
   team: true
   ribbon:
@@ -70,110 +70,110 @@
   social:
     - {name: "site", link: "https://twitter.com/SPataut"}
 
--
-  id: 5
-  name: "Bojan"
-  surname: "Miletic"
-  title: "Mentor"
-  thumbnailUrl: default.png
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://www.linkedin.com/in/boyan-miletic/"}
+# -
+#   id: 5
+#   name: "Bojan"
+#   surname: "Miletic"
+#   title: "Mentor"
+#   thumbnailUrl: default.png
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://www.linkedin.com/in/boyan-miletic/"}
 
--
-  id: 6
-  name: "Darshan"
-  surname: "Gandhi"
-  title: "Mentor"
-  thumbnailUrl: DarshanGandhi.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://darshan-gandhi.github.io/"}
+# -
+#   id: 6
+#   name: "Darshan"
+#   surname: "Gandhi"
+#   title: "Mentor"
+#   thumbnailUrl: DarshanGandhi.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://darshan-gandhi.github.io/"}
 
--
-  id: 7
-  name: "Henry"
-  surname: "Blauth"
-  title: "Mentor"
-  thumbnailUrl: HenryBlauth.jpeg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://github.com/hblauth"}
+# -
+#   id: 7
+#   name: "Henry"
+#   surname: "Blauth"
+#   title: "Mentor"
+#   thumbnailUrl: HenryBlauth.jpeg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://github.com/hblauth"}
 
--
-  id: 8
-  name: "Jil"
-  surname: "KOTHARI"
-  title: "Mentor"
-  thumbnailUrl: JilKOTHARI.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: ""}
+# -
+#   id: 8
+#   name: "Jil"
+#   surname: "KOTHARI"
+#   title: "Mentor"
+#   thumbnailUrl: JilKOTHARI.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: ""}
 
--
-  id: 9
-  name: "Lais"
-  surname: "Carvalho"
-  title: "Mentor"
-  thumbnailUrl: LaisCarvalho.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://twitter.com/lais_bsc"}
+# -
+#   id: 9
+#   name: "Lais"
+#   surname: "Carvalho"
+#   title: "Mentor"
+#   thumbnailUrl: LaisCarvalho.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://twitter.com/lais_bsc"}
 
--
-  id: 10
-  name: "Liam"
-  surname: "Kirwin"
-  title: "Mentor"
-  thumbnailUrl: LiamKirwin.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: ""}
+# -
+#   id: 10
+#   name: "Liam"
+#   surname: "Kirwin"
+#   title: "Mentor"
+#   thumbnailUrl: LiamKirwin.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: ""}
 
--
-  id: 11
-  name: "Lubna"
-  surname: "Khan"
-  title: "Mentor"
-  thumbnailUrl: LubnaKhan.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://www.linkedin.com/in/lubna-khan-59843569/"}
+# -
+#   id: 11
+#   name: "Lubna"
+#   surname: "Khan"
+#   title: "Mentor"
+#   thumbnailUrl: LubnaKhan.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://www.linkedin.com/in/lubna-khan-59843569/"}
 
--
-  id: 12
-  name: "Mani"
-  surname: "Sarkar"
-  title: "Mentor"
-  thumbnailUrl: ManiSarkar.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://neomatrix369.wordpress.com/about"}
+# -
+#   id: 12
+#   name: "Mani"
+#   surname: "Sarkar"
+#   title: "Mentor"
+#   thumbnailUrl: ManiSarkar.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://neomatrix369.wordpress.com/about"}
 
--
-  id: 12
-  name: "Tomás Müller"
-  surname: "Bravo"
-  title: "Mentor"
-  thumbnailUrl: TomasMullerBravo.jpeg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "site", link: "https://temuller.github.io/"}
+# -
+#   id: 12
+#   name: "Tomás Müller"
+#   surname: "Bravo"
+#   title: "Mentor"
+#   thumbnailUrl: TomasMullerBravo.jpeg
+#   team: true
+#   ribbon:
+#     - {abbr: "", title: ""}
+#   social:
+#     - {name: "site", link: "https://temuller.github.io/"}
