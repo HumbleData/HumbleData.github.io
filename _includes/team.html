@@ -2,11 +2,7 @@
 <!-- <section id="team" class="team">
     <div class="content-wrapper"> -->
         <div>
-            <!-- <h3>About</h3> -->
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.data.settings.cover_description }}</p>
-        </div>
-        <div>
-            <h3 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Team</h3>
+            <h3 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Meet the team</h3>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
