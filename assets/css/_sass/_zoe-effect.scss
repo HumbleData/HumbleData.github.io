@@ -1,7 +1,12 @@
 $figcaption-color: #3c4a50;
+.effect-wrapper {
+    width: 50%;
+    // margin-right: 10px;
+}
+
 .zoe-effect {
     margin-bottom: 26px;
-    height: 250px;
+    height: 230px;
     cursor: pointer;
     transition: $base-transition;
     box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .15);
@@ -14,15 +19,17 @@ $figcaption-color: #3c4a50;
             .overlay {
                 background: rgba(0, 0, 0, .3);
                 @media (max-width: 767px) {
-                   background: rgba(0, 0, 0, 0);
+                    background: rgba(0, 0, 0, 0);
                 }
             }
         }
-        h2, figcaption, figcaption > a {
+        h2,
+        figcaption,
+        figcaption>a {
             transform: translateY(0);
             color: #3c4a50;
         }
-        figcaption > a {
+        figcaption>a {
             &:nth-child(5) {
                 transition-delay: .1s;
             }
@@ -34,7 +41,7 @@ $figcaption-color: #3c4a50;
             }
             &:nth-child(2) {
                 transition-delay: .25s;
-            }    
+            }
         }
         .bio {
             transform: translateY(-70%);
@@ -55,8 +62,8 @@ $figcaption-color: #3c4a50;
         background-size: 115%;
         @media (max-width: 767px) {
             background-position: center left;
-            -webkit-background-size: 105%;   
-            background-size: 105%;   
+            -webkit-background-size: 105%;
+            background-size: 105%;
         }
         .overlay {
             transition: $base-transition;
@@ -75,7 +82,7 @@ $figcaption-color: #3c4a50;
         color: $figcaption-color;
         background: #fff;
         @media (max-width: 767px) {
-            transform: translateY(0);         
+            transform: translateY(0);
         }
         h2 {
             font-size: 16px;
@@ -88,24 +95,24 @@ $figcaption-color: #3c4a50;
             transition-delay: .05s;
             color: #fff;
             @media (max-width: 767px) {
-                transform: translateY(0); 
+                transform: translateY(0);
                 color: #3c4a50;
             }
             span {
                 font-weight: $bold;
             }
         }
-        > div {
+        >div {
             padding: 0;
             transform: translateY(-5px);
         }
-        > a {
+        >a {
             float: right;
             margin-left: 4px;
             transition: $base-transition;
             transform: translateY(200%);
             @media (max-width: 767px) {
-                transform: translateY(0);     
+                transform: translateY(0);
             }
         }
         .position {

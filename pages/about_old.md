@@ -1,8 +1,3 @@
----
-layout: misc
-title: About
-
----
 ## Who are we?
 
 * We **connect** passionate mentors with eager learners. By creating a bridge between people who are already active in the tech industry with people who want to learn more about a career in tech, we enable our participants to learn much more than just how to code.
@@ -16,3 +11,5 @@ There are many reasons for people to push aside their hopes of a tech career, **
 There's a **generosity that needs to be promoted more**, we've seen that directly from the conference partners we collaborate with and the **mentors** **giving their time** to welcome people into this community. We're here to spread that message and let people know that better **diversity and inclusivity in tech can happen** if we organise our efforts in the right way.
 
 And what better way to do this than to start using data well? **Use data in a way that represents all of us**. Use data for good, follow best practices, and educate everyone how powerful it can be in the right hands. **We can all make a difference** by understanding data and even more when we can work with it. Which is why we should **stay humble around data**.
+
+## Meet the team
