@@ -70,6 +70,30 @@
   social:
     - {name: "site", link: "https://twitter.com/SPataut"}
 
+-
+  id: 6
+  name: "Laís"
+  surname: "Carvalho"
+  title: "Organiser"
+  thumbnailUrl: LaisCarvalho.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "site", link: ""}
+
+-
+  id: 7
+  name: "Jodie"
+  surname: "Burchell"
+  title: "Organiser"
+  thumbnailUrl: JodieBurchell.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "site", link: ""}
+
 # -
 #   id: 5
 #   name: "Bojan"
