@@ -94,6 +94,18 @@
   social:
     - {name: "site", link: ""}
 
+-
+  id: 8
+  name: "Karolina"
+  surname: "Ladino Puerto"
+  title: "Organiser"
+  thumbnailUrl: KarolinaLadinoPuerto.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "site", link: ""}
+
 # -
 #   id: 5
 #   name: "Bojan"
