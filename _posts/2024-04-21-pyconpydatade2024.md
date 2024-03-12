@@ -9,14 +9,14 @@ image: /assets/img/cover/pycon_pydata_de.jpg
 
 ## Humble Data at PyCon/PyData DE
 
-Learn Python for Data Science in this Beginners’ Day Workshop
+### Learn Python for Data Science in this Beginners’ Day Workshop
 Would you like to learn to code but don’t know where to start? Taking your first steps in programming can seem like an impossible task, so we’ve decided to put on a workshop to show beginners how it can be done and share our passion for the world of data science!
 
 “We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.” – Python Software Foundation’s Diversity Statement
 
 We invite those from under-represented groups in data to [apply](https://forms.gle/o2FqCmi67joLUX2p9) to join us at our Humble Data workshop, a free satellite event associated with PyCon/PyData DE in Berlin on April 21st, 2024. In this workshop, you will learn the basics of programming in Python, as well as how to use tools such as Jupyter notebooks to analyse data. **Please note that you do _not_ need a ticket for PyCon/PyData DE to attend this event!**
 
-You will be learning in small groups, each with an assigned mentor to guide you through the workshop materials and answer your questions. This will all be facilitated online through the wonders of modern technology. You can expect plenty of exercises, as well as inspiring talks from those who were once in your shoes.
+You will be learning in small groups, each with an assigned mentor to guide you through the workshop materials and answer your questions. You can expect plenty of exercises, as well as inspiring talks from those who were once in your shoes.
 
 [Apply to participate in the workshop](https://forms.gle/o2FqCmi67joLUX2p9){: .btn}
 
@@ -32,7 +32,7 @@ This event is being held in person at the [bcc](https://bcc-berlin.de/en/locatio
 
 Anyone! While we're working with the organisers of PyCon/PyData DE to host Humble Data as a satellite event, you will **not** need a ticket for the conference to attend this workshop. 
 
-We do have limited spots, so we will prioritise applicants from underrepresented groups in tech. Applications close on March 29th, 2024, and successful applicants will be informed by April 5th.
+We do have limited spots, so we will prioritise applicants from underrepresented groups in tech. Applications close on **March 29th, 2024**, and successful applicants will be informed by April 5th.
 
 **WHAT DO I NEED TO BRING?**
 
