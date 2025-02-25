@@ -14,7 +14,7 @@ Would you like to learn to code but don’t know where to start? Taking your fir
 
 “We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.” – Python Software Foundation’s Diversity Statement
 
-We invite those from under-represented groups in data to apply to join us at our Humble Data workshop, a free satellite event associated with PyCon/PyData DE in Berlin on April 21st, 2024. In this workshop, you will learn the basics of programming in Python, as well as how to use tools such as Jupyter notebooks to analyse data. **Please note that you do _not_ need a ticket for PyCon/PyData DE to attend this event!**
+We invite those from under-represented groups in data to apply to join us at our Humble Data workshop, a free satellite event associated with PyCon/PyData DE in Darmstadt on Tuesday, 22 April 2025. In this workshop, you will learn the basics of programming in Python, as well as how to use tools such as Jupyter notebooks to analyse data. **Please note that you do _not_ need a ticket for PyCon/PyData DE to attend this event!**
 
 You will be learning in small groups, each with an assigned mentor to guide you through the workshop materials and answer your questions. You can expect plenty of exercises, as well as inspiring talks from those who were once in your shoes.
 
