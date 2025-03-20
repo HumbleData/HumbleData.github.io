@@ -32,7 +32,7 @@ This event is being held in person at the **Darmstadt, Germany** (exact location
 
 Anyone! While we're working with the organisers of PyCon/PyData DE to host Humble Data as a satellite event, you will **not** need a ticket for the conference to attend this workshop. 
 
-We do have limited spots, so we will prioritise applicants from underrepresented groups in tech. Applications close on ~~March 17th, 2025~~ **March 31st, 2025**, and successful applicants will be informed by March 31st.
+We do have limited spots, so we will prioritise applicants from underrepresented groups in tech. Applications close on ~~March 17th, 2025~~ **March 31st, 2025**, and successful applicants will be informed by ~~March 31st~~ April 7th.
 
 **WHAT DO I NEED TO BRING?**
 
