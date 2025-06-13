@@ -7,13 +7,19 @@ title: Resources
 
 Our materials are designed to be learned in one of our [Humble Data workshops](https://humbledata.org/pages/up-coming.html), where you'll have mentors to help and answer your questions. However, if you're unable to join us you're also welcome to work through these materials on your own. Below are instructions on how to access and work with the materials.
 
-### Accessing the materials
+### Accessing the materials in browser
 
-During the workshop, we provide the materials for beginners using a JupyterLite server. The materials are currently available in [English](https://humbledata.org/online-workshop/lab/index.html), [Spanish](https://humbledata.org/online_workshop_spanish/lab/index.html) and [Italian](https://humbledata.org/online-workshop-italian-v2/lab/index.html). Please contact us if you'd like to help out the project by translating the materials into other languages!  
+**The easiest way to access the materials for beginners is to use our [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/) server.** Select a language below to get started:
 
-The materials can also be cloned from our [GitHub repo](https://github.com/HumbleData/beginners-data-workshop). If you want to use the materials this way, you will need to install them locally. Instructions on how to do this are provided below. Don't worry if you've never done this before—these instructions are designed for complete beginners and will walk you through each step.
+- [English](https://humbledata.org/online-workshop/lab/index.html)
+- [Spanish](https://humbledata.org/online_workshop_spanish/lab/index.html)
+- [Italian](https://humbledata.org/online-workshop-italian-v2/lab/index.html).
+
+Please contact us if you'd like to help out the project by translating the materials into other languages!  
 
 ### Installing the materials locally
+
+If you're interested in learning how to manage your own Python Environment the materials can also be cloned from our [GitHub repo](https://github.com/HumbleData/beginners-data-workshop). If you want to use the materials this way, you will need to install them locally. Instructions on how to do this are provided below. Don't worry if you've never done this before—these instructions are designed for complete beginners and will walk you through each step.
 
 #### Open up a new terminal
 To get started, open up a new terminal on your computer. A terminal is a tool that allows you to interact with your computer by typing in commands. It allows you to do a very wide variety of things (as you'll see below) in an efficient way.
