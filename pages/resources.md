@@ -71,7 +71,7 @@ Now we need to install something called Git. Git is essentially a sophisticated 
 
 At its core, Git works by taking "snapshots" (commits) of your project at different points in time. These snapshots are organized in "repositories" (called "repos" for short) which track the entire history of your project.
 
-Git can also be used to share code through online platforms. The most famous of these platforms is GitHub, which we'll be using in this workshop. You can download (called "cloning") code that others have shared on GitHub to your computer, and in the next step in this workshop we'll be cloning the materials for this workshop. This process downloads not just the current version of the files, but the entire history of changes tracked by Git. Once cloned, you have all the materials locally and can work with them as needed, while also maintaining the connection to the original repository to potentially receive updates or contribute changes back.
+Git can also be used to share code through online platforms, using a system called Version Control or VCS. The platform we will in this workshop is called GitHub. You can download (called "cloning") code that others have shared on GitHub to your computer, and in the next step we'll be cloning the materials for this workshop. This process downloads not just the current version of the files, but the entire history of changes tracked by Git. Once cloned, you have all the materials locally and can work with them as needed, while also maintaining the connection to the original repository to potentially receive updates or contribute changes back.
 
 First things first: let's download Git. Just like with installing Python, you'll only need to do this once.
 
@@ -86,7 +86,7 @@ Follow the instructions on [this page](https://github.com/git-guides/install-git
 
 #### Clone the repo using Git
 
-Now that we have Git installed, we're going to use it to get the code for the workshop. As mentioned above, this is called "cloning the repo"; that is, using Git to download all the files we need for the workshop. These files are hosted on GitHub, which as we mentioned earlier, is an online platform for sharing code using Git. 
+Now that we have Git installed, we're going to use it to get the code for the workshop. As mentioned above, this is called "cloning the repository" or "cloning the repo", for short; that is, using Git to download all the files we need for the workshop. These files are hosted on GitHub, which as we mentioned earlier, is one of the online platforms for sharing code using Git. 
 
 To clone the repo:
 1. On your computer, go to the folder that you want to copy the workshop folder to (for example, you might make a folder in your Documents folder called "python"). On Windows, hold down the Shift key and right-click on the folder, and select `Copy as path`. On Mac OS, right-click on this folder and press Option, and select `Copy {folder name} as Pathname`. This will give us the location, or "path", of this folder.
