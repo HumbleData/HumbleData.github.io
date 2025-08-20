@@ -4,7 +4,7 @@ title: "Humble Data Workshop in London"
 author: "Velda Kiara"
 categories: event
 tags: [workshop]
-image: /assets/img/cover/humbledata.png
+image: /assets/img/cover/humbledata.jpg
 slug: "londonsept2025"
 ---
 
@@ -22,8 +22,6 @@ We invite those from underrepresented groups in data to apply to join us at our 
 In this workshop, you will learn the basics of programming in Python, as well as how to use tools such as Jupyter notebooks and pandas to analyse data.
 
 You will be learning in small groups, each with an assigned mentor to guide you through the workshop materials and answer your questions. You can expect plenty of exercises, as well as inspiring discussions with those who were once in your shoes.
-
-[Apply to join as learner](https://docs.google.com/forms/d/e/1FAIpQLSdkSEgcKDx2gNlvvXQxxbKR0dAKXRV7F8RmvxytFRFJ7dYChA/viewform?usp=dialog){: .btn} [Apply to join as a mentor](https://docs.google.com/forms/d/e/1FAIpQLSdkSEgcKDx2gNlvvXQxxbKR0dAKXRV7F8RmvxytFRFJ7dYChA/viewform?usp=dialog){: .btn}
 
 ### Schedule
 The workshop will happen on September 5th, 2025 at [Ramen Space](https://maps.app.goo.gl/4dCj6dkw52XLnizh7), at Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK. Here is what we are planning for the evening:
@@ -61,8 +59,9 @@ And what better way to do this than to start using data well? Use data in a way 
 
 ## And a huge thank you!
 
-We've very grateful to JetBrains for their sponsorship of this event, as well as providing the venue. We're also thankful to PyLadies Amsterdam for their support of this event.
+We've very grateful to Kiara Engineers Limited and Dressed for Space for the refreshments and Ramen Club for providing the venue for the workshop. We're also thankful to our mentors from Feminists AI.
 
 ---
 
-Cover Image: Source <a href="https://www.pexels.com/photo/photo-of-boats-parked-on-river-2031706/">Pexels</a>
+Cover Image: Source <a href="https://www.pexels.com/photo/photo-of-london-eye-during-dawn-269128/">
+Jerome Dominici </a>
