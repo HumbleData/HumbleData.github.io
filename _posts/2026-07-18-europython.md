@@ -23,7 +23,7 @@ Please fill in the application form linked below.
 
 Please apply for Humble Data by filling in the form linked below. We'll reply on a rolling basis to successful applicants and send you further instructions. The workshop is free, and you do not need to be registered for EuroPython to attend Humble Data, but note that we are limited to 20 places.
 
-[Get your free Humble Data ticket](https://forms.gle/bgnJC7JutmUj2hu88){: .btn}
+[Apply for Humble Data now!](https://forms.gle/bgnJC7JutmUj2hu88){: .btn}
 
 Registrations close on **Friday, 17 July 2026**.
 
